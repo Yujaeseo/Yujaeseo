@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Printf("Hello%20:)"\)&fontSize=90)
-
+<br>
 <h3 align="center">Tech stack </strong></h3>
 
 <div align="center">
@@ -9,7 +9,7 @@
   <img src = "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://dillinger.io/">
   <img src = "https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://dillinger.io/">
 </div>
-
+<br><br><br>
 ### Interest
 * Machine leaning and data mining
 * GPGPU computing
