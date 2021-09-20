@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Printf("Hello%20:)"\)&fontSize=90)
 
-<p align="center"> <strong style="font-size:40px;">Tech stack </strong></p>
+<h2 align="center">Tech stack </strong></h2>
 
 <div align="center">
   <img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&link=https://dillinger.io/">
