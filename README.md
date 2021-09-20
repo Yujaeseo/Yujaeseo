@@ -9,7 +9,9 @@
   <img src = "https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://dillinger.io/">
   <img src = "https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://dillinger.io/">
 </div>
+
 <br><br><br>
+
 ### Interest
 * Machine leaning and data mining
 * GPGPU computing
