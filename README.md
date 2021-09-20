@@ -10,7 +10,7 @@
   <img src = "https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://dillinger.io/">
 </div>
 
-<h3> Interest </h3>
+### Interest
 * Machine leaning and data mining
 * GPGPU computing
 * Recommender systems
